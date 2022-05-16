@@ -1,4 +1,8 @@
 # Simple-Chat-Room-using-Python
+# Dependences / libraries use:
+    $ import socket
+    $ from threading import Thread
+    $ import json
 
 # Usage
 1. We will have to start our Server first.
