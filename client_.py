@@ -1,10 +1,8 @@
 import socket
 from tkinter import *
-from tkinter import ttk
 import socket as st
 from threading import Thread
-import re
-import time
+
 
 HOST = "127.0.0.1"  # Standard loopback interface address (localhost)
 PORT = 65432  # Port to listen on (non-privileged ports are > 1023)
